@@ -1,0 +1,21 @@
+body {
+    background-color: wheat ;
+    text-align: center;
+}
+
+h1{
+    font-size: 1em;
+}
+
+.txt-blue{
+    color: cadetblue;
+}
+
+strong{
+    font-weight: normal;
+}
+
+.txt-rouge{
+    color: red;
+    font-family: "Blackadder ITC";
+}
