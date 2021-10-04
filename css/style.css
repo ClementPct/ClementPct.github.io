@@ -24,7 +24,7 @@ td {
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
-
+    border-collapse: collapse;
 }
 table {
     margin-top: 100px;
