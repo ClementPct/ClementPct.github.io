@@ -24,16 +24,19 @@ td {
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+    border: 15px solid green;
 }
 table {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+    border: 15px solid green;
 }
 tr {
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 80px;
+    border: 15px solid green;
 }
